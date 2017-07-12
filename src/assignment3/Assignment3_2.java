@@ -14,7 +14,7 @@ class ParentClass
 }
 	
 //Child class or subclass
-class Assignment3_2 extends ParentClass
+public class Assignment3_2 extends ParentClass
 {
 	int num,num2;	//subclass variable
 	
